@@ -111,12 +111,6 @@ This will:
 
 ## ▶️ Running the Demo
 
-### Run trained model
-
-```
-python main.py
-```
-
 ### Run multiple episodes
 
 ```
